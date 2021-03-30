@@ -1,5 +1,5 @@
 -r prod.txt
-Pygments==1.6
+Pygments==2.7.4
 Sphinx==1.2.2
 sphinxcontrib-httpdomain==1.1.9
 docutils==0.11

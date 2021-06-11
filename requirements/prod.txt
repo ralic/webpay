@@ -21,7 +21,7 @@ GitPython==0.1.7
 gunicorn==0.17.4
 httplib2==0.19.0
 jingo==0.6
-Jinja2==2.6
+Jinja2==2.11.3
 kombu==2.5.10
 marketplace-constants==0.5.4
 m2secret==0.1.1

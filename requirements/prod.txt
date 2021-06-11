@@ -41,7 +41,7 @@ python-dateutil==2.1
 python-memcached==1.48
 pytz==2010e
 raven==4.2.3
-requests==2.0.0
+requests==2.20.0
 requests_oauthlib==0.4.1
 six==1.2.0
 slumber==0.5.3
